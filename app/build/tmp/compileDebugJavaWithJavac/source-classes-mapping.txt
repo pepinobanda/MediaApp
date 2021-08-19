@@ -1,0 +1,31 @@
+mx/utng/mediaapp/CardPresenter.java
+ mx.utng.mediaapp.CardPresenter
+ mx.utng.mediaapp.CardPresenter$ViewHolder
+mx/utng/mediaapp/PlayerActivity.java
+ mx.utng.mediaapp.PlayerActivity
+mx/utng/mediaapp/Utils.java
+ mx.utng.mediaapp.Utils
+mx/utng/mediaapp/VideoDetailsActivity.java
+ mx.utng.mediaapp.VideoDetailsActivity
+mx/utng/mediaapp/VideoDetailsFragment.java
+ mx.utng.mediaapp.VideoDetailsFragment
+ mx.utng.mediaapp.VideoDetailsFragment$1
+ mx.utng.mediaapp.VideoDetailsFragment$2
+ mx.utng.mediaapp.VideoDetailsFragment$3
+ mx.utng.mediaapp.VideoDetailsFragment$4
+ mx.utng.mediaapp.VideoDetailsFragment$DetailsDescriptionPresenter
+mx/utng/mediaapp/MainActivity.java
+ mx.utng.mediaapp.MainActivity
+mx/utng/mediaapp/Video.java
+ mx.utng.mediaapp.Video
+mx/utng/mediaapp/MainFragment.java
+ mx.utng.mediaapp.MainFragment
+ mx.utng.mediaapp.MainFragment$1
+mx/utng/mediaapp/BuildConfig.java
+ mx.utng.mediaapp.BuildConfig
+mx/utng/mediaapp/PlayerControlsFragment.java
+ mx.utng.mediaapp.PlayerControlsFragment
+ mx.utng.mediaapp.PlayerControlsFragment$DescriptionPresenter
+ mx.utng.mediaapp.PlayerControlsFragment$PlayerControlsListener
+mx/utng/mediaapp/DetailsDescriptionPresenter.java
+ mx.utng.mediaapp.DetailsDescriptionPresenter
